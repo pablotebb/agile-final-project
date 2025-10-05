@@ -15,6 +15,6 @@ assignees: ''
 * [document what you now]
 
 ### Aceptance Criteria:
-Given [some context]
-When [certain action is taken]
-Then [the outcome of action is observed]
+**Given** [some context]
+**When** [certain action is taken]
+**Then** [the outcome of action is observed]
